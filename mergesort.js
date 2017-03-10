@@ -1,5 +1,5 @@
 function mergeSort(a) {
-	if (a.length<2){
+	if (<2){
   	return a;
   } else {
   	var mijloc = a.length/2;
